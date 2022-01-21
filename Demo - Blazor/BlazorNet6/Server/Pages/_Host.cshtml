@@ -1,0 +1,9 @@
+﻿@page "/"
+@namespace BlazorNet6.Server.Pages
+@using BlazorNet6.Client
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Layout";
+}
+
+<component type="typeof(App)" render-mode="WebAssemblyPrerendered" />

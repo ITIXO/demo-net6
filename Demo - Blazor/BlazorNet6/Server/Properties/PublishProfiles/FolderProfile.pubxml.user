@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-01-18T08:28:03.3385199Z;True|2022-01-18T09:26:34.0170951+01:00;True|2022-01-18T09:26:07.0214432+01:00;False|2022-01-18T09:25:50.1323654+01:00;True|2022-01-18T09:16:40.5376167+01:00;False|2022-01-18T09:15:55.9153113+01:00;True|2022-01-17T20:14:36.8151861+01:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,78 @@
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Client.staticwebassets.runtime.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\appsettings.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.staticwebassets.runtime.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.exe
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.deps.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.runtimeconfig.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\ref\BlazorNet6.Server.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Client.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Shared.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Client.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Shared.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.AssemblyInfo.cs
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.RazorAssemblyInfo.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.RazorAssemblyInfo.cs
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorNet6.Server.styles.css
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.csproj.CopyComplete
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\ref\BlazorNet6.Server.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.genruntimeconfig.cache
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\appsettings.Development.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\appsettings.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Client.staticwebassets.runtime.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.staticwebassets.runtime.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.exe
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.deps.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.runtimeconfig.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\ref\BlazorNet6.Server.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Server.pdb
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Client.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Shared.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Client.pdb
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\bin\Debug\net6.0\BlazorNet6.Shared.pdb
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.AssemblyInfo.cs
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.RazorAssemblyInfo.cache
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.RazorAssemblyInfo.cs
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\scopedcss\bundle\BlazorNet6.Server.styles.css
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.csproj.CopyComplete
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\ref\BlazorNet6.Server.dll
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.pdb
+C:\Data\Examples\.NET 6\Demo - Blazor\BlazorNet6\Server\obj\Debug\net6.0\BlazorNet6.Server.genruntimeconfig.cache

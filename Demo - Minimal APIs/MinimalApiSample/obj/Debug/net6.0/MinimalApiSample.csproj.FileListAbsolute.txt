@@ -1,0 +1,54 @@
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\appsettings.Development.json
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\appsettings.json
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.exe
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.deps.json
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.runtimeconfig.json
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\ref\MinimalApiSample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.AssemblyInfo.cs
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\scopedcss\bundle\MinimalApiSample.styles.css
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\ref\MinimalApiSample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.genruntimeconfig.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Data\Examples\.NET Conf 2021\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.csproj.CopyComplete
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\appsettings.Development.json
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\appsettings.json
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.exe
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.deps.json
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.runtimeconfig.json
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\ref\MinimalApiSample.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\MinimalApiSample.pdb
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.AssemblyInfo.cs
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.MvcApplicationPartsAssemblyInfo.cs
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\scopedcss\bundle\MinimalApiSample.styles.css
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.csproj.CopyComplete
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\ref\MinimalApiSample.dll
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.pdb
+C:\Data\Examples\.NET 6\Demo - Minimal APIs\MinimalApiSample\obj\Debug\net6.0\MinimalApiSample.genruntimeconfig.cache

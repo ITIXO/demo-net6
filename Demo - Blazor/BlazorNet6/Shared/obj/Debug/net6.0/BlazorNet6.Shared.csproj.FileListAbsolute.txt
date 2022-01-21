@@ -1,0 +1,12 @@
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\bin\Debug\net6.0\BlazorNet6.Shared.deps.json
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\bin\Debug\net6.0\BlazorNet6.Shared.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\bin\Debug\net6.0\ref\BlazorNet6.Shared.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\bin\Debug\net6.0\BlazorNet6.Shared.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.AssemblyInfo.cs
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\ref\BlazorNet6.Shared.dll
+C:\Data\Examples\.NET Conf 2021\Demo - Blazor\BlazorNet6\Shared\obj\Debug\net6.0\BlazorNet6.Shared.pdb

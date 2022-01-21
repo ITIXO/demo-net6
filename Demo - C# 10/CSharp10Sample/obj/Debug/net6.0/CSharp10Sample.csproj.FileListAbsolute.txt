@@ -1,0 +1,30 @@
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.AssemblyInfo.cs
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.exe
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.deps.json
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.runtimeconfig.json
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\ref\CSharp10Sample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\ref\CSharp10Sample.dll
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.pdb
+C:\Data\Examples\.NET Conf 2021\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.genruntimeconfig.cache
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.exe
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.deps.json
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.runtimeconfig.json
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.dll
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\ref\CSharp10Sample.dll
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\bin\Debug\net6.0\CSharp10Sample.pdb
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.csproj.AssemblyReference.cache
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.AssemblyInfoInputs.cache
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.AssemblyInfo.cs
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.csproj.CoreCompileInputs.cache
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.dll
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\ref\CSharp10Sample.dll
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.pdb
+C:\Data\Examples\.NET 6\Demo - C# 10\CSharp10Sample\obj\Debug\net6.0\CSharp10Sample.genruntimeconfig.cache
